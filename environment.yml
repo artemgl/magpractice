@@ -1,0 +1,9 @@
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - seaborn
+  - scipy
+  - pytorch
+  - torch
+  - mpmath

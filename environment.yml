@@ -7,3 +7,5 @@ dependencies:
   - pytorch
   - torch
   - mpmath
+  - torchquad
+  - multipledispatch

@@ -1,5 +1,5 @@
 from math import log
-from beamsplitter import BS
+from series.beamsplitter import BS
 from special import hermite_H
 from wavefun import WaveFunHermite
 import torch
